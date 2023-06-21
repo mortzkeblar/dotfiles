@@ -1,0 +1,9 @@
+{
+  "suggest.enablePreselect": false,
+  "diagnostic.checkCurrentLine": true,
+  "suggest.noselect": true,
+  "prettier.tabWidth": 4,
+  "prettier.requireConfig": false  
+}
+
+
